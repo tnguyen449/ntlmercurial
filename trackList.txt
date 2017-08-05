@@ -7,3 +7,6 @@ remained tasks list
  - embed print function with id (Note: declare @media print type in scss file) - Trung
  - try to complete routes and re-direct route - Trung
  - refactor data involve in price and input price for preparing backend data - Trung
+
+Note: 
+- create QR code in recipe (optional)
