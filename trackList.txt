@@ -1,0 +1,9 @@
+remained tasks list
+ - check again all fields involve in DateTime (back-end and front-end) - Vuong
+ - move to bind data to form review - Vuong
+ - generate data table - Trung
+ - build up status - Vuong
+ - build detail button - Trung
+ - embed print function with id (Note: declare @media print type in scss file) - Trung
+ - try to complete routes and re-direct route - Trung
+ - refactor data involve in price and input price for preparing backend data - Trung
